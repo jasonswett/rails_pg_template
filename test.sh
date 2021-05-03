@@ -1,1 +1,1 @@
-rails new my_app -d postgresql -m template.rb
+rails new my_app2 -d postgresql -m template.rb
